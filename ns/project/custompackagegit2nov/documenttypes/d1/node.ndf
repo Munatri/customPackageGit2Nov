@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">project.custompackagegit2nov.documenttypes:d1</value>
+    <value name="node_pkg">VCFlowProject</value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <record name="revisionData" javaclass="com.wm.util.Values">
+        <value name="createdBy">Munatri.Baruah@ibm.com</value>
+        <value name="createdByUserId">c25b4f266e4744a992417a655ab3ebb6</value>
+        <number name="createdDate" type="Long">1793586220773</number>
+        <value name="lastModifiedBy">Munatri.Baruah@ibm.com</value>
+        <value name="lastModifiedByUserId">c25b4f266e4744a992417a655ab3ebb6</value>
+        <number name="lastModifiedDate" type="Long">1793586227640</number>
+      </record>
+      <Boolean name="wMIODocTypeReplica">true</Boolean>
+      <value name="createdBy">Munatri.Baruah@ibm.com</value>
+      <value name="modifiedBy">Munatri.Baruah@ibm.com</value>
+      <value name="createdDate">2026-11-02T02:23:40.789250861Z</value>
+      <value name="lastModifiedDate">2026-11-02T02:23:47.643298249Z</value>
+    </record>
+    <value name="is_public">false</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="node_nsName">Field1</value>
+        <value name="node_comment"></value>
+        <record name="node_hints" javaclass="com.wm.util.Values">
+          <value name="id">aafeb326-96cd-4edd-9e34-4beeb7193807</value>
+          <value name="field_password">false</value>
+          <value name="field_largerEditor">false</value>
+        </record>
+        <value name="is_public">false</value>
+        <value name="field_name">str1</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+    </array>
+    <value name="modifiable">true</value>
+    <value name="updateRSD">true</value>
+  </record>
+</Values>
